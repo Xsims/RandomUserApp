@@ -2,7 +2,7 @@ plugins {
     `kotlin-dsl`
 }
 
-group = "com.google.samples.apps.nowinandroid.buildlogic"
+group = "com.xsims.randomuserapp.buildlogic"
 
 java {
     sourceCompatibility = JavaVersion.VERSION_11
